@@ -1,3 +1,7 @@
 Adding first line for testing
 Adding 2nd line for testing
+<<<<<<< HEAD
 Adding 3rd line for testing...
+=======
+Adding 4th line for testing
+>>>>>>> 5bf9d69480bcb7429d4bf9e9ac8a3c7eaf4e30fc
